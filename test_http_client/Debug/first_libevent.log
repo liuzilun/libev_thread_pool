@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(first_libevent.vcxproj, test_server.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test_http_client.cpp
+d:\newstart\libevent\out\vs2017_32\libevent\src\test_http_client\test_http_client.cpp(233): warning C4715: “TestPostHttp”: 不是所有的控件路径都返回值
+d:\newstart\libevent\out\vs2017_32\libevent\src\test_http_client\test_http_client.cpp(146): warning C4715: “TestGetHttp”: 不是所有的控件路径都返回值
+  first_libevent.vcxproj -> D:\newstart\libevent\out\vs2017_32\libevent\src\test_http_client\Debug\test_http_client.exe

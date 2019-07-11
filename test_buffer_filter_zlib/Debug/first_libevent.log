@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(first_libevent.vcxproj, test_server.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  zlib_client.cpp
+  zlib_server.cpp
+  正在生成代码...
+  first_libevent.vcxproj -> D:\newstart\libevent\out\vs2017_32\libevent\src\test_buffer_filter_zlib\Debug\test_buffer_filter_zlib.exe
